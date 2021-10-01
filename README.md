@@ -22,14 +22,3 @@ decided to help them by creating this beautiful package. Hopefully, someday it w
 <br />
 It is also important to know if a number is odd, so additionally I created this other package [@samuelmarina/is-odd](https://www.npmjs.com/package/@samuelmarina/is-odd)
 
-### Contributing
-PLEASE, MAKE A PULL REQUEST SO WE CAN FINISH THIS PROJECT ASAP. Also, give it a star, for the sake of God.
-
-### Author
-**Samuel Mariña AKA Samuel Miller**
-* [github/samuelmarina](https://github.com/samuelmarina)
-* [youtube/sammillervlogs](https://youtube.com/sammillervlogs)
-
-### License
-Copyright © 2021, [Samuel Mariña](https://github.com/samuelmarina).
-Released under the [ISC License](LICENSE).
