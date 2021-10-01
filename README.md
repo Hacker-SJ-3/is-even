@@ -19,4 +19,3 @@ This is a 100% serious project, and it is made to help the community. There are 
 decided to help them by creating this beautiful package. Hopefully, someday it will be completed...
 <br />
 It is also important to know if a number is odd, so additionally I created this other package [@samuelmarina/is-odd](https://www.npmjs.com/package/@samuelmarina/is-odd)
-
