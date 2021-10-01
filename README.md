@@ -1,6 +1,4 @@
-# is-even [![npm](https://img.shields.io/npm/v/@samuelmarina/is-even)](https://www.npmjs.com/package/@samuelmarina/is-even) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJKYubtV1bfbhS-SxTm9Z1A?style=social)](https://youtube.com/sammillervlogs)
-> Return true if the number passed is even, hopefully...
-
+# is-even [![npm](https://img.shields.io/npm/v/@samuelmarina/is-even)](https://www.npmjs.com/package/@samuelmarina/is-even) 
 ## Install
 Install with [npm](https://www.npmjs.com/)
 ```sh
